@@ -1,3 +1,3 @@
-# Domovia Fase 1
+# Domovia - Fase 1
 
-Questa è la fase 1 del progetto Domovia, include le funzionalità base.
+Sito gestionale per affitti. Contiene login, dashboard e caricamento documenti.
