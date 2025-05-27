@@ -1,1 +1,0 @@
-console.log('Domovia Fase 1 caricata con successo');
